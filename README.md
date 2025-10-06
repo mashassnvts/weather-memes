@@ -45,10 +45,31 @@ npm start
 
 ## Переменные окружения
 
+### Backend
 Создайте файл `.env` в папке `backend/`:
 ```
 WEATHER_API_KEY=your_openweathermap_api_key
 ```
+
+### Frontend
+Создайте файл `.env` в папке `frontend/my-app/`:
+```
+REACT_APP_API_URL=http://localhost:5000
+```
+
+## Деплой
+
+### Backend на Render
+1. Подключите репозиторий к Render
+2. Укажите Root Directory: `backend`
+3. Build Command: `npm install`
+4. Start Command: `npm start`
+5. Добавьте переменную окружения: `WEATHER_API_KEY`
+
+### Frontend на Vercel
+1. Подключите репозиторий к Vercel
+2. Укажите Root Directory: `frontend/my-app`
+3. Добавьте переменную окружения: `REACT_APP_API_URL` (URL вашего бэкенда на Render)
 
 ## API Endpoints
 
