@@ -1,0 +1,76 @@
+{
+  "hot": [
+    {
+      "image": "http://localhost:5000/images/1.jpg",
+      "text": "When it's +30°C outside and you're trying to look fresh"
+    },
+    {
+      "image": "http://localhost:5000/images/2.jpg",
+      "text": "Sand in shorts = new crystals"
+    },
+    {
+      "image": "http://localhost:5000/images/6.jpg",
+      "text": "Summer: when your shadow becomes your best friend"
+    }
+  ],
+  "cold": [
+    {
+      "image": "http://localhost:5000/images/7.jpg",
+      "text": "When you turn on the heating and the meter laughs"
+    },
+    {
+      "image": "http://localhost:5000/images/8.jpg",
+      "text": "-20°C: time to become an Eskimo"
+    },
+    {
+      "image": "http://localhost:5000/images/9.jpg",
+      "text": "Winter: when your fingers turn into icicles"
+    }
+  ],
+  "normal": [
+    {
+      "image": "http://localhost:5000/images/10.jpg",
+      "text": "Perfect weather for doing nothing"
+    },
+    {
+      "image": "http://localhost:5000/images/11.jpg",
+      "text": "Weather is weather, life goes on"
+    },
+    {
+      "image": "http://localhost:5000/images/12.jpg",
+      "text": "When the weather doesn't interfere with your plans"
+    }
+  ],
+  "rain": [
+    {
+      "image": "http://localhost:5000/images/13.jpg",
+      "text": "Rain: nature reminds you that you have things to do at home"
+    },
+    {
+      "image": "http://localhost:5000/images/14.jpg",
+      "text": "When they promised rain, but you're still without an umbrella"
+    },
+    {
+      "image": "http://localhost:5000/images/15.jpg",
+      "text": "Rain: when the sky cries and you're happy"
+    }
+  ],
+  "test": [
+    {
+      "image": "http://localhost:5000/images/1.jpg",
+      "text": "Test meme text"
+    },
+    {
+      "image": "http://localhost:5000/images/1.jpg",
+      "text": "Test meme text"
+    },
+    {
+      "image": "http://localhost:5000/images/1.jpg",
+      "text": "Test meme text"
+    },
+    {
+      "image": "http://localhost:5000/images/1.jpg",
+      "text": "Test meme text"
+    }
+  ]
+}
